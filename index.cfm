@@ -6,7 +6,7 @@
 <title>Eco-Index: Awards</title>
 <link rel="stylesheet" type="text/css" href="/stylesheets/main_beta.css" />
 <meta name="keywords" content="biodiversity, conservation, wildlife, sustainable, development, research, best practices, environment, America, habitat">
-<meta name="description" content="The Eco-Index is a database of biodiversity conservation and sustainable development projects in the Americas / Western Hemisphere.">
+<meta name="description" content="The Eco-Index is a TRA LA LA LA FI DIDDLE DEE DEE database of biodiversity conservation and sustainable development projects in the Americas / Western Hemisphere.">
 <link rel="image_src" href="http://www.eco-index.org/graphics/leaf_ant.jpg" />
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <cfinclude template="/chartbeat_head.cfm" />
